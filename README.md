@@ -1,0 +1,2 @@
+# vk-node-api-game-example
+A basic setup for working with vk api for games, specifically setting a score for a game.
