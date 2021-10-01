@@ -7,7 +7,6 @@ interface IupdatePlayerScore {
   authKey: string;
 }
 
-// Новый рекорд спрятан в hash
 export default async function updatePlayerScore(request, reply) {
   try {
     const {
